@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net" modified="2023-10-08T11:09:50.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BXK4lpuYwQ1vHpVyVVq0" version="22.0.4" type="device">
+  <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
+    <mxGraphModel dx="995" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wo_GmxMyn7pNjKlHlVx0-61" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-3" value="Sub Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="122.50999999999999" y="250" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-4" value="Реєстрація" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" parent="1" vertex="1">
+          <mxGeometry x="265" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-12" value="Логін" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#000000;fontStyle=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="225.01" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-14" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="263.13" y="300" width="73.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-15" value="Пароль" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#000000;fontStyle=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="225" y="340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-16" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="263.13" y="360" width="73.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Зареєструватись&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="255" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-18" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="40.000000000000014" y="200" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-19" value="Sub Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1.4210854715202004e-14" y="250" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-20" value="Авторизація" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" parent="1" vertex="1">
+          <mxGeometry x="55.010000000000005" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-21" value="Логін" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#000000;fontStyle=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="5.000000000000014" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-22" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="63.13000000000001" y="300" width="73.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-23" value="Пароль" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#000000;fontStyle=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="5.000000000000014" y="340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-24" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="63.13000000000001" y="360" width="73.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-25" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Авторизуватись&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="55.000000000000014" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSPgqR7k5OqScSdktIxC-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Створити аккаунт&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="60.010000000000005" y="250" width="79.99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fwtxz4xMrNj2MScQ3ar4-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MSPgqR7k5OqScSdktIxC-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70.00000000000001" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fwtxz4xMrNj2MScQ3ar4-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="240.01" y="480" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Fwtxz4xMrNj2MScQ3ar4-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.496;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MSPgqR7k5OqScSdktIxC-17" target="Fwtxz4xMrNj2MScQ3ar4-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="450" as="sourcePoint" />
+            <mxPoint x="280" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fwtxz4xMrNj2MScQ3ar4-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.537;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MSPgqR7k5OqScSdktIxC-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="400" as="sourcePoint" />
+            <mxPoint x="239" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="416" />
+              <mxPoint x="200" y="480" />
+              <mxPoint x="200" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
+          <mxGeometry x="325" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-20" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Вибрати пісню&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ffffff;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="250" y="540" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-21" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Записи пісень&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ffffff;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="250" y="585" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-23" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-24" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;Рекомендовані пісні&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#FFFFFF;mainText=;subText=;" parent="1" vertex="1">
+          <mxGeometry x="442.5" y="497.5" width="115" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="pYHXsUMM5LBLPJTa6CRz-24" vertex="1">
+          <mxGeometry y="4" width="115.00000000000001" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-33" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №1&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="560" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-35" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №2&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="590" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-36" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №3&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="620" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-37" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №4&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="650" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №5&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="565.13" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="595.13" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="625.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="655.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHXsUMM5LBLPJTa6CRz-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="685.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pYHXsUMM5LBLPJTa6CRz-20" target="pYHXsUMM5LBLPJTa6CRz-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="550" as="sourcePoint" />
+            <mxPoint x="460" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="40.00999999999999" y="480" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ваши записи пісень&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#FFFFFF;mainText=;subText=;" parent="1" vertex="1">
+          <mxGeometry x="42.50999999999999" y="497.5" width="115" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="frs996rLGUrSPjKBr7wg-3" vertex="1">
+          <mxGeometry y="4" width="115.00000000000001" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №1&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50.00999999999999" y="560" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №2&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50.00999999999999" y="590" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №3&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50.00999999999999" y="620" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №4&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50.00999999999999" y="650" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-9" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пісня №5&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50.00999999999999" y="680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="130.01" y="565.13" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="130.01" y="595.13" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="130.01" y="625.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="130.01" y="655.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#008CFF;strokeColor=#008CFF;" parent="1" vertex="1">
+          <mxGeometry x="130.01" y="685.12" width="10" height="9.75" as="geometry" />
+        </mxCell>
+        <mxCell id="frs996rLGUrSPjKBr7wg-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.006;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pYHXsUMM5LBLPJTa6CRz-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="620" as="sourcePoint" />
+            <mxPoint x="160" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
