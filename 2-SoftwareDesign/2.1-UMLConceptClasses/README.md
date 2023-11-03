@@ -1,2 +1,2 @@
 ### UML-діаграма концептуальних класів
-![UMLConceptClasses](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/2d3e019d-7e40-4d6d-9cce-abed98e75345)
+![UMLConceptClasses](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/b5164ebf-2c78-4ab4-8da3-29b1665b775f)
