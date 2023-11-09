@@ -1,2 +1,4 @@
 ### Схема моделі даних
-![DataModel](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/81f5de00-062d-4fa6-9649-c4983819ba40)
+![DataModel](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/ffac64b8-60fc-44bc-87ba-513167e87244)
+
+
