@@ -56,7 +56,7 @@ create table save_song (
 	id_recomendationsingno INT REFERENCES recomendation_sing(recomendationsingno)
 );
 
-ALTER TABLE songlist ADD CONSTRAINT author CHECK (author SIMILAR TO '[a-zA-z]');          
+ALTER TABLE songlist ADD CONSTRAINT author CHECK (author SIMILAR TO '^[a-zA-z]+$');          
 
-ALTER TABLE user_app ADD CONSTRAINT user_name CHECK (user_name SIMILAR TO '[a-zA-z.]');
+ALTER TABLE user_app ADD CONSTRAINT user_name CHECK (user_name SIMILAR TO '^[a-zA-z.]+$');
 
