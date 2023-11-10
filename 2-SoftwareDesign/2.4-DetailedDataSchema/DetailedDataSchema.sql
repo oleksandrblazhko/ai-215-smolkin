@@ -16,7 +16,7 @@ create table recomendation_song (
 
 create table songlist (
 	songlistno INT PRIMARY KEY,
-	song_name VARCHAR(39) CHECK(song_name < 40),
+	song_name VARCHAR(39),
 	song_time INT CHECK(song_time > 0),
 	author VARCHAR(49),
 	id_userno INT REFERENCES user_app(userno),
@@ -42,16 +42,23 @@ create table analyze_voice (
 
 create table recomendation_sing (
 	recomendationsingno INT PRIMARY KEY,
-	song_name VARCHAR(39) CHECK(song_name < 40),
+	song_name VARCHAR(39),
 	recomendation VARCHAR(199),
 	id_analyzevoiceno INT REFERENCES analyze_voice(analyzevoiceno)
 );
 
 create table save_song (
 	savesongno INT PRIMARY KEY,
-	song_name VARCHAR(39) CHECK(song_name < 40),
+	song_name VARCHAR(39),
 	song_time INT CHECK(song_time > 0),
 	author VARCHAR(49),
 	id_userno INT REFERENCES user_app(userno),
 	id_recomendationsingno INT REFERENCES recomendation_sing(recomendationsingno)
 );
+
+ALTER TABLE songlist ADD CONSTRAINT author CHECK (author SIMILAR TO
+               '^([a-z0-9][a-z0-9._-]*@[a-z][a-z0-9._-]*\.[a-z]{2,4})$');
+
+ALTER TABLE user_app ADD CONSTRAINT user_name CHECK (user_name SIMILAR TO
+               '^([a-z0-9][a-z0-9._-]*@[a-z][a-z0-9._-]*\.[a-z]{2,4})$');
+
