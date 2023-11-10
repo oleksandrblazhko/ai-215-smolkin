@@ -16,8 +16,8 @@ create table recomendation_song (
 
 create table songlist (
 	songlistno INT PRIMARY KEY,
-	song_name VARCHAR(39),
-	song_time INT,
+	song_name VARCHAR(39) CHECK(song_name < 40),
+	song_time INT CHECK(song_time > 0),
 	author VARCHAR(49),
 	id_userno INT REFERENCES user_app(userno),
 	id_recomendation_songno INT REFERENCES recomendation_song(recomendation_songno)
@@ -42,15 +42,15 @@ create table analyze_voice (
 
 create table recomendation_sing (
 	recomendationsingno INT PRIMARY KEY,
-	song_name VARCHAR(39),
+	song_name VARCHAR(39) CHECK(song_name < 40),
 	recomendation VARCHAR(199),
 	id_analyzevoiceno INT REFERENCES analyze_voice(analyzevoiceno)
 );
 
 create table save_song (
 	savesongno INT PRIMARY KEY,
-	song_name VARCHAR(39),
-	song_time INT,
+	song_name VARCHAR(39) CHECK(song_name < 40),
+	song_time INT CHECK(song_time > 0),
 	author VARCHAR(49),
 	id_userno INT REFERENCES user_app(userno),
 	id_recomendationsingno INT REFERENCES recomendation_sing(recomendationsingno)
