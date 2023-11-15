@@ -24,7 +24,7 @@ song: VARCHAR(39)
 time: INT
 }
 
-User "1" --> "*" SongList
-SongList "1" --> "1" RecordSong 
+User --* SongList : 1 to * 
+SongList -- RecordSong : 1..1
 
 @enduml
