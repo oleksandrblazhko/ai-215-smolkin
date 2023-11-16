@@ -13,7 +13,9 @@ node "<<Смартфон>>" as phone {
 }
 
 interface TouchScreen
+interface Microphone
 
 TouchScreen - phone
+Microphone - phone
 
 @enduml
