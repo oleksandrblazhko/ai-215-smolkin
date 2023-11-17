@@ -1,0 +1,25 @@
+@startuml
+
+left to right direction 
+title UML-ConceptClasses
+
+class User {
+name: String
+password: String
+}
+
+class SongList {
+name: String
+time: Int
+author: String
+}
+
+class RecordSong {
+song: String
+time: Int
+}
+
+User "1" --> "*" SongList
+SongList"1" --> "1" RecordSong 
+
+@enduml

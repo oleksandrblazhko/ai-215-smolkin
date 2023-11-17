@@ -1,0 +1,21 @@
+@startuml
+
+title UML-Deployment
+
+skinparam componentStyle uml1
+
+node "<<Смартфон>>" as phone {
+
+	node "<<OC Android>>" {
+		component [ *.apk(Android Studio)]
+	}
+
+}
+
+interface TouchScreen
+interface Microphone
+
+TouchScreen - phone
+Microphone - phone
+
+@enduml

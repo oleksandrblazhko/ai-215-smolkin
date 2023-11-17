@@ -1,0 +1,30 @@
+@startuml
+
+left to right direction 
+title DataModel
+
+entity User {
++userno: INT <<PK>>
+name: VARCHAR(49)
+password: VARCHAR(14)
+}
+
+entity SongList {
++songListno: INT <<PK>>
+name: VARCHAR(39)
+time: INT
+author: VARCHAR(49)
+userno: INT <<FK>>
+recomendationSongno: INT <<FK>>
+}
+
+entity RecordSong {
++recordSongno: INT <<PK>>
+song: VARCHAR(39)
+time: INT
+}
+
+User --* SongList : 1 to * 
+SongList -- RecordSong : 1..1
+
+@enduml

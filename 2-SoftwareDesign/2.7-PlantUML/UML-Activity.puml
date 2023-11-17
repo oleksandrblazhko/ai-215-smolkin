@@ -1,0 +1,21 @@
+@startuml
+
+title UML-Activity
+
+start
+
+:Invoke getLastSong();
+
+if (Last song information is available?) then (yes)
+  if (Song list is not empty) then (yes)
+    :Display the last song information;
+  else (no)
+    :Display a message "No songs available";
+  endif
+else (no)
+  :Display an error message "Failed to retrieve last song information";
+endif
+
+stop
+
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+
+title UseCaseDiagram
+
+left to right direction
+
+actor Користувач as User
+
+rectangle SoftwareProduct {
+
+usecase "Авторизація користувача" as auth
+usecase "Вибрати пісню" as choose_song
+
+choose_song .> auth : include
+
+User -- auth
+User -- choose_song
+
+}
+
+@enduml
