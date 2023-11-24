@@ -1,2 +1,2 @@
 ### UML-діаграма програмних класів
-![UMLProgramClasses](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/aae26b49-ce10-429b-8f1a-c3f90e6289fa)
+![UMLConceptClasses](https://github.com/oleksandrblazhko/ai-215-smolkin/assets/101869573/c9e48970-d595-4a7e-a0e6-6a411d172e35)
